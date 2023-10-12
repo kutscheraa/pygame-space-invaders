@@ -1,4 +1,4 @@
 # space-invaders
-College winter semester project
+##College winter semester project
+##Recreation of Space Invaders (ATARI 2600) with Pygame
 
-Recreation of Space Invaders (ATARI 2600) using Pygame
