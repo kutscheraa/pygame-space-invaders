@@ -1,5 +1,5 @@
 # space-invaders
-**College winter semester project**
+**University winter semester project**
 
 **Class: Algorithmization and programming**
 
